@@ -1,2 +1,2 @@
 # Udacity-MLND
-Udacity Machine Learning NanoDegree
+优达学城机器学习项目

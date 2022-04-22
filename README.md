@@ -1,1 +1,1 @@
-# Udacity Machine Learning Nanodegree
+# Udacity Machine Learning Nanodegree course assignment
